@@ -12,11 +12,11 @@ function Contact(){
                     
                 </div>
                 <div className="column-lg-2 offset-sm-1 col-auto">
-                    <h2 className="display-5">Where to find me!</h2>
-                    <a className="btn btn-secondary btn-sm" href="https://www.linkedin.com/in/michael-zaslavsky-32a773186/">LinkedIn</a>
+                    <h2 className="display-5">My links</h2>
+                    <a className="btn btn-info" href="https://www.linkedin.com/in/michael-zaslavsky-32a773186/">LinkedIn</a>
                     <a className="btn btn-primary btn-sm" href="https://twitter.com/MichaelZ492">Twitter</a>
-                    <a className="btn btn-warning btn-sm" href={Resume} target="_blank">View Resume</a>
-                    <a className="btn btn-sm btn-info" href="https://github.com/MichaelZ002">GitHub</a>
+                    <a className="btn btn-danger" href={Resume} target="_blank">View Resume</a>
+                    <a className="btn btn-dark" href="https://github.com/MichaelZ002">GitHub</a>
                 </div>
             </div>
         </div>
